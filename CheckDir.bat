@@ -73,7 +73,7 @@ v
 cls
 ECHO ----------------------------------------------------------
 ECHO 1 - Go Back to Start
-ECHO 2 - Count different type of files
+ECHO 2 - Find different type of files
 ECHO 3 - Exit
 ECHO ----------------------------------------------------------
 ECHO.
